@@ -19,3 +19,5 @@ PROMPT='%{$reset_color%}$(emojiTime)  '
 ```
 
 Assuming time2emoji is the built binary from step 1.
+
+![alt tag](https://github.com/herme5/TimeToEmoji/blob/master/screenTime2Emoji.png)
